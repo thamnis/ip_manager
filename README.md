@@ -65,7 +65,7 @@ No external dependencies are required. The script works with Python's standard m
 
 ## 🧪 Unit Tests
 
-A test file test_ip_manager.py is available to validate the functionalities.
+A test file [test.py](/test.py) is available to validate the functionalities.
 
 ### 🔹 Running tests
 
