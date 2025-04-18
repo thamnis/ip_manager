@@ -1,5 +1,7 @@
 # IP Manager
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](/README.md) [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](/README.fr.md)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)
 [![Repo Size](https://img.shields.io/github/repo-size/thamnis/ip_manager)](https://github.com/thamnis/ip_manager)
